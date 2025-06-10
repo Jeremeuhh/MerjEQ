@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'MerjEQ - AU' in project 'MerjEQ'
+➜ Explicit dependency on target 'MerjEQ - Shared Code' in project 'MerjEQ'
+Target 'MerjEQ - Shared Code' in project 'MerjEQ' (no dependencies)

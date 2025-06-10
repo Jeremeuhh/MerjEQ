@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/jeremeuh/Dev/PLUGINS/MerjEQ/JuceLibraryCode/include_juce_audio_plugin_client_AU_2.mm \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/juce_audio_plugin_client_AU_2.mm \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_core/system/juce_TargetPlatform.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_core/system/juce_CompilerWarnings.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBase.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBase.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBuffer.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUUtility.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUInputElement.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUScopeElement.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/ComponentBase.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIUtility.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUOutputElement.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUPlugInDispatch.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBuffer.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBufferAllocator.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUEffectBase.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUEffectBase.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUSilentTimeout.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUInputElement.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIBase.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIBase.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIEffectBase.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIEffectBase.h \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUOutputElement.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUPlugInDispatch.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUScopeElement.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/ComponentBase.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/MusicDeviceBase.cpp \
+  /Users/jeremeuh/Dev/JUCE/modules/juce_audio_plugin_client/AU/AudioUnitSDK/MusicDeviceBase.h
