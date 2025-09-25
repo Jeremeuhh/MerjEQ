@@ -1,0 +1,32 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*~
+*.swp
+
+# Fichiers de build
+build/
+Builds/*/build/
+
+# Fichiers générés par IDE
+.vscode/
+.idea/
+
+# Fichiers de sauvegarde
+*.bak
+
+# Fichiers spécifiques au projet
+PluginEditor.cpp.new
+
+# Exclure les binaires
+*.exe
+*.dll
+*.so
+*.dylib
