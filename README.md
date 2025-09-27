@@ -1,28 +1,22 @@
-
 # MerjEQ
 
-MerjEQ est un égaliseur vocal rapide à 3 bandes avec distorsion (harmoniques couplées).
+Égaliseur 3 bandes avec distorsion pour traitement vocal rapide.
 
-## Fonctionnalités
-- Égaliseur 3 bandes (Grave, Medium, Aigu)
-- Section de distorsion pour enrichir le signal
-- Interface intuitive
+## Features
+- EQ 3 bandes (Bass, Mid, High)
+- Distorsion harmonique
+- Interface simple
 
-## Installation
-1. Téléchargez le dépôt :
-	```
-	git clone https://github.com/Jeremeuhh/MerjEQ
-	```
-2. Ouvrez le projet avec [JUCE](https://juce.com/) ou votre IDE compatible.
-3. Suivez les instructions de build dans le dossier `Builds` pour générer le plugin (VST3, AU, etc.).
+## Build
+Clone et ouvre `MerjEQ.jucer` avec Projucer :
 
-## Utilisation
-1. Installez le plugin dans le dossier de plugins de votre DAW.
-2. Chargez MerjEQ sur une piste audio ou voix.
-3. Ajustez les paramètres selon vos besoins.
+```bash
+git clone https://github.com/Jeremeuhh/MerjEQ.git
+```
 
-## Contribution
-Les contributions sont les bienvenues ! Ouvrez une issue ou une pull request pour proposer des améliorations.
+Génère ton projet pour ton IDE depuis Projucer et compile.
 
-## Licence
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus d’informations.
+## Usage
+Charge le plugin sur tes pistes vocales, tweake les knobs.
+
+Formats: VST3, AU, Standalone
