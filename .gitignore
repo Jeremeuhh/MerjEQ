@@ -1,27 +1,17 @@
-# JUCE Project .gitignore
+# Build
+Builds/
+JuceLibraryCode/
 
-# Build directories and generated files
-Builds/**/build/
-Builds/**/Debug/
-Builds/**/Release/
-Builds/**/x64/
-Builds/**/x86/
-Builds/**/*.build/
-Builds/**/*.xcworkspace/
-Builds/**/*.xcodeproj/xcuserdata/
-Builds/**/.vs/
-
-# Binary files and plugins
+# Binaires
 *.exe
 *.dll
 *.so
 *.dylib
 *.vst3
 *.component
-*.aaxplugin
 *.app
 
-# IDE and editor files
+# IDE
 .vscode/
 .idea/
 *.suo
@@ -30,18 +20,13 @@ Builds/**/.vs/
 *.sln.docstates
 *.vcxproj.user
 
-# System files
+# Système
 .DS_Store
-.AppleDouble
-.LSOverride
-Icon?
 ._*
 Thumbs.db
-ehthumbs.db
 Desktop.ini
-.directory
 
-# Temporary and log files
+# Fichiers tempo/backup
 *.log
 *.tmp
 *.temp
@@ -49,16 +34,5 @@ Desktop.ini
 *.swp
 *.bak
 *.orig
-
-# Plugin validation cache
-*.validationcache
-
-# Generated configuration files
-JuceLibraryCode/AppConfig.h.temp
-
-# Local configuration
-local.properties
-
-# Backup and temporary source files
 *.cpp.new
 *.h.new
