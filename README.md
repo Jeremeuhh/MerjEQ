@@ -1,6 +1,6 @@
 # MerjEQ
 
-Égaliseur 3 bandes avec distorsion pour traitement vocal rapide.
+Égaliseur 3 bandes avec légère distorsion pour traitement vocal rapide.
 
 ## Features
 - EQ 3 bandes (Bass, Mid, High)
